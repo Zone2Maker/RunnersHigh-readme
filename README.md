@@ -75,18 +75,12 @@
     <tr>
       <td>채팅방 화면</td>
       <td>양방향 무한 스크롤</td>
+	  <td>실시간 채팅</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/b35ddc64-2e5b-44dd-a410-8ed08aeaf071" height="500px"/></td>
       <td><img src="https://github.com/user-attachments/assets/6856bb45-5b99-4917-a878-b08f2b37f733" height="500px"/></td> 
-    </tr>
-    <tr>
-      <td>실시간 채팅(사용자1)</td>
-      <td>실시간 채팅(사용자2)</td>
-    </tr>
-    <tr>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+	  <td><img src="https://github.com/user-attachments/assets/2ed7cbe1-adb8-4ded-b9c5-c9d33b4fcd35" height="500px"/></td>
     </tr>
   </tbody>
 </table>
