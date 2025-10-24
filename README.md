@@ -171,9 +171,9 @@
 <table>  
   <tbody>
     <tr>
-      <td width="25%"><img src="" width="100%" alt="손원영"/></td>
-      <td width="25%"><img src="https://cdn.discordapp.com/attachments/1404417214022422648/1422162987170398229/SPOILER_.jpg?ex=68dbabfe&is=68da5a7e&hm=692805a18f590fee7c05f40fdfad1ae9ab70931e2d07ec2803523979c9f027b3&" width="100%" alt="김지니"/></td>
-      <td width="25%"><img src="https://cdn.discordapp.com/attachments/1404417214022422648/1422125944033902602/SPOILER_KakaoTalk_20250722_122439888_01.jpg?ex=68db897e&is=68da37fe&hm=2e0d6ad07e18dedef813b1f8637274da0464f25ed47bfe4557dd24732cdbf35a&" width="100%" alt="이슬기"/></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/13ac2a0f-6ad8-4611-8f08-a3650028cb4f" width="100%" alt="손원영"/></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/44ec7c9d-63c0-4a1b-aa3d-be9664caa208" width="100%" alt="김지니"/></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/d5fa6586-3d7b-4da8-9ad0-092430694327" width="100%" alt="이슬기"/></td>
       <td width="25%"><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="이예린"/></td>
     </tr>
     <tr>
