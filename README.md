@@ -172,8 +172,8 @@
   <tbody>
     <tr>
       <td width="25%"><img src="https://github.com/user-attachments/assets/13ac2a0f-6ad8-4611-8f08-a3650028cb4f" width="100%" alt="손원영"/></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/44ec7c9d-63c0-4a1b-aa3d-be9664caa208" width="100%" alt="김지니"/></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/d5fa6586-3d7b-4da8-9ad0-092430694327" width="100%" alt="이슬기"/></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/d5fa6586-3d7b-4da8-9ad0-092430694327" width="100%" alt="김지니"/></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/44ec7c9d-63c0-4a1b-aa3d-be9664caa208" width="100%" alt="이슬기"/></td>
       <td width="25%"><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="이예린"/></td>
     </tr>
     <tr>
